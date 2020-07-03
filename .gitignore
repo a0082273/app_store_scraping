@@ -1,5 +1,7 @@
 .ipynb_checkpoints/
-.DS_Store/
-input/
+.DS_Store
+# input/
+# output/
 *.json
 *.csv
+*.gz
