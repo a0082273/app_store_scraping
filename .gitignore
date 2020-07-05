@@ -1,5 +1,5 @@
 .ipynb_checkpoints/
-.DS_Store/
-input/
+.DS_Store
 *.json
 *.csv
+*.gz
